@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "sourceMap": true,
+        "allowJs": false,
+        "allowUnreachableCode": true,
+        "watch": true,
+        "outDir": "build/"
+    },
+    "exclude": [
+        "node_modules",
+        "typings",
+        "bower_components"
+    ]
+
+}
